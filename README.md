@@ -4,8 +4,8 @@ Este projeto utiliza técnicas de análise exploratória de dados (EDA) e modela
 ---
 ## Estrutura do Repositório
 * README.md: Este arquivo explicativo.
-* notebooks/: Contém o Jupyter Notebook com as análises realizadas (EDA e modelagem).
-* modelos/: Arquivo .pkl contendo o modelo treinado.
+* notebook/: Contém o Jupyter Notebook com as análises realizadas (EDA e modelagem).
+* modelo/: Arquivo .pkl contendo o modelo treinado.
 * requirements.txt: Arquivo contendo todas as dependências e versões necessárias para executar o projeto.
 * dataset.csv: Arquivo csv com o dataset.
 

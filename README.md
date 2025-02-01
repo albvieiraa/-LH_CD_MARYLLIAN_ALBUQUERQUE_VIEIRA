@@ -14,8 +14,8 @@ Este projeto utiliza técnicas de análise exploratória de dados (EDA) e modela
 Antes de rodar o projeto, é necessário instalar os pacotes necessários. Utilize o arquivo `requirements.txt` para instalar as dependências:
 1. Clone o repositório
 ```bash
-  git clone https://github.com/seu-usuario/nome-do-repositorio.git
-  cd nome-do-repositorio
+  git clone https://github.com/albvieiraa/LH_CD_MARYLLIAN_ALBUQUERQUE_VIEIRA.git
+  cd LH_CD_MARYLLIAN_ALBUQUERQUE_VIEIRA
 ```
 
 2. Instale as dependências:
